@@ -16,7 +16,7 @@ public class ShortcutDeleteCommand extends ShortcutCommand {
     private static final String SHORTCUT_SUCCESSFULLY_DELETED = "Shortcut successfully deleted.";
 
     public ShortcutDeleteCommand(String key) {
-        this.keyToDelete = key;
+        this.keyToDelete = key.substring(15);
     }
 
     @Override
