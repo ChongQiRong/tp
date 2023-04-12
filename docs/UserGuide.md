@@ -97,10 +97,7 @@ install rainyDay on your device and start using it. Please refer to the steps be
        ![cut.png](images/UserGuide/cut.png) <br><br>
     3. Go to the folder of your choice
     4. Right-click in the file window and select "Paste" as seen below <br><br>
-       ![paste.png](images/UserGuide/paste.png) <br><br>
-
-<div style="page-break-after: always;"></div>
-
+       ![paste.png](images/UserGuide/paste.png) <br><br><br><br><br>
 4. To run "rainyDay.jar" on the command line, do the following:
     1. Open the folder containing "rainyDay.jar" and click on the address bar <br><br>
        ![folderpath.png](images/UserGuide/folderPath.png) <br><br>
