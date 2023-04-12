@@ -35,6 +35,8 @@ follows:
 
 For more in-depth information, please refer to the [Features Overview](#features-overview) section.
 
+<div style="page-break-after: always;"></div>
+
 ## Content Page
 
 <!-- TOC -->
@@ -74,6 +76,8 @@ Please note the following about the format of commands given under each [feature
 * Some technical terminologies are defined in the [glossary](#glossary), clicking on the links will navigate you to the
   glossary where you can read their definitions
 
+<div style="page-break-after: always;"></div>
+
 ## Quick Start
 
 Now that you have learnt how to use this user guide, you are ready to begin! Next, we will show you how to
@@ -94,6 +98,9 @@ install rainyDay on your device and start using it. Please refer to the steps be
     3. Go to the folder of your choice
     4. Right-click in the file window and select "Paste" as seen below <br><br>
        ![paste.png](images/UserGuide/paste.png) <br><br>
+
+<div style="page-break-after: always;"></div>
+
 4. To run "rainyDay.jar" on the command line, do the following:
     1. Open the folder containing "rainyDay.jar" and click on the address bar <br><br>
        ![folderpath.png](images/UserGuide/folderPath.png) <br><br>
@@ -107,7 +114,7 @@ install rainyDay on your device and start using it. Please refer to the steps be
        ![cmd prompt open.png](images/UserGuide/cmdPromptOpen.png)<br><br>
 5. Type `java -jar rainyDay.jar` in the terminal and press "Enter" on your keyboard to start the application. You should
    see the following if the start-up is successful. <br><br>
-   ![cmd start up.png](images/UserGuide/cmdStartUp.png) <br><br>
+   ![cmd start up.png](images/UserGuide/cmdStartUp.png) <br><br><br><br><br><br><br><br><br><br><br>
 6. Type your name and press "Enter". The following will be shown: <br><br>
    ![cmd enter name.png](images/UserGuide/cmdEnterName.png)
 
@@ -121,6 +128,8 @@ install rainyDay on your device and start using it. Please refer to the steps be
   ![understandingCLI.png](images/UserGuide/understandingCLI.png) <br><br>
 - If you are interested in learning more about CLI, you may refer to the following
   [guide](https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/).
+
+<div style="page-break-after: always;"></div>
 
 ## Features Overview
 
@@ -146,6 +155,8 @@ install rainyDay on your device and start using it. Please refer to the steps be
         * [Where to locate exported CSV file?](#where-to-locate-the-exported-csv-file)
         * [How to view the CSV file using Microsoft Excel?](#how-to-view-the-csv-file-using-microsoft-excel)
 * [Exiting rainyDay](#exiting-rainyday)
+
+<div style="page-break-after: always;"></div>
 
 ## Features
 
@@ -195,6 +206,8 @@ needs. So, if you're ready to take control of your finances and maintain accurat
 An integral feature of any financial tracker is to add transactions. The "add" feature of rainyDay allows you
 to keep track of your inflows and outflows. The following explains how you can add different types of transactions
 to rainyDay.
+
+<div style="page-break-after: always;"></div>
 
 Format: **`add [DIRECTION] [DESCRIPTION] [AMOUNT] {CATEGORY} {DATE}`**
 
@@ -458,6 +471,8 @@ To do so, you can use the following command:
 
 [Jump back to Features Overview](#features-overview)
 
+<div style="page-break-after: always;"></div>
+
 ### Shortcuts
 
 After using rainyDay for a period of time, you realised that there are some commands that you seem to repeat frequently.
@@ -533,6 +548,8 @@ the following command:
 
 [Jump back to Features Overview](#features-overview)
 
+<div style="page-break-after: always;"></div>
+
 ### Data Management
 
 Saving and loading your data is something you don't have to worry about as we got it covered! In this section,
@@ -594,18 +611,18 @@ been configured in step 3 of the [Quick Start section](#quick-start). The CSV fi
 2. Click on the *Data* tab found at the top and click on *From
    Text/CSV*.<br><br>
 
-    ![csvtoexcel.csv](images/UserGuide/csvToExcel.png)
+   ![csvtoexcel.csv](images/UserGuide/csvToExcel.png)
    <br><br>
 3. Navigate to the CSV file as directed in
    the [where to locate exported CSV file section](#where-to-locate-the-exported-csv-file).
 4. Double-click on the CSV file and click the *load* button.<br><br>
 
-    ![img.png](images/UserGuide/csv.png)
+   ![img.png](images/UserGuide/csv.png)
    <br><br>
 5. With steps 1-4, your financial statements should now be viewable in a nicely formatted table as shown
    below.<br><br>
 
-    ![statementTable.png](images/UserGuide/statementTable.png)
+   ![statementTable.png](images/UserGuide/statementTable.png)
 
 [Jump back to Features Overview](#features-overview)
 
@@ -617,6 +634,8 @@ you can use the following command:
 Format: **`bye`**
 
 [Jump back to Features Overview](#features-overview)
+
+<div style="page-break-after: always;"></div>
 
 ## FAQ
 
@@ -632,7 +651,7 @@ characters only when using rainyDay
 
 **Q**: How do I transfer my data to another computer?
 
-**A**: Transfer the entire folder containing the "rainyDay.jar" file from one device to the other device. You can now use 
+**A**: Transfer the entire folder containing the "rainyDay.jar" file from one device to the other device. You can now use
 rainyDay in your new device with the same data you previously saved.
 
 **Q**: I remember having saved data, but why is it that when I start rainyDay, it says that the report is empty?
@@ -650,6 +669,8 @@ and their contents do not affect rainyDay's functions. The "logs" folder and its
 **Q**: I want to view my transactions for today, but `view 0d` does not work. What should I do?
 
 **A**: You can use the filter feature! To do that, you can type `filter -date [TODAY'S DATE]`
+
+<div style="page-break-after: always;"></div>
 
 ## Command Summary
 
@@ -672,6 +693,8 @@ and their contents do not affect rainyDay's functions. The "logs" folder and its
 | [Exit](#exiting-rainyday)                       | `bye`                                                                                                                                                                                                                                                        |
 
 [Jump back to Table of Contents](#content-page)
+
+<div style="page-break-after: always;"></div>
 
 ## Glossary
 
